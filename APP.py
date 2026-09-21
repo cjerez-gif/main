@@ -43,7 +43,7 @@ st.markdown("""
 # 2. BARRA LATERAL - PARÁMETROS DE ENTRADA
 # ==========================================
 # Cargar el logo desde la carpeta del proyecto
-st.sidebar.image("logo_uace.png", use_column_width=True)
+st.sidebar.image("logo_uace.jpg", use_column_width=True)
 st.sidebar.caption("Unidad de Análisis en Ciencias Económicas (UACE)")
 st.sidebar.markdown("---")
 st.sidebar.title("⚙️ Parámetros de la Estrategia")
